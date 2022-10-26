@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{experience.html}
+= Experience
+
+#todo 
+#add raman lab exp -- workshop -- droneracing -- robocon -- TATA Makerthon
+# toshiba
+
+=== Addverb Technologies
+
+August 2021, Robotics Engineer
+
+- Developed compatible robot systems to work on 5G and ways to expoit network to make robots intelligent as well as cost-effective.
+
+- Developed robust mapping and localization pipeline for AMRs. Developed on marker based landmark localisation to sup-
+plement AMCL in dynamic environments. Working on visual SLAM and VO techniques to aid and eventually completely localise robots
+in highly dynamic environments.
+
+- Lead the deployment of Fleet Management Systems for Dynamo series Robots (AMR) Developed on deadlock resolution schemes,
+taskmanagement, and system interfacing using AMQP and MQTT over 5G (One of the first 5G deployments in India) and deployed in
+Reliance, Jamnagar, India. Features included:
+
+    \- TCP based Server Client architecture, Backend for Communication with UI, interfacing with PLCs featuring lossless and no
+latency operation.
+
+    \- Fleet Management System as a Service, running as docker containers over a remote 5G server for 24*7 robust operation.
+
+- Developed marker based pose detection algorithm for high speed detection of upto 5 m/s operation for Zippy and Veloce (A pick and
+place sorting robot) from ground up.
+
+=== Addverb Technologies (Internship)
+
+Winter 2020
+
+Worked on monocular localisation pipeline based on visual odometry. Extensively researched feature matchers and descriptors 
+inorder to make a robust VO application, implemented DL methods like superglue to conventional mathers and descriptors like ORB and
+ SIFT with post processing to extract only very robust features.
+
+Advisor: [https://scholar.google.co.in/citations?user=XzIq4aIAAAAJ&hl=en Mr. Sarthak Upadhyay]
+
+=== Toshiba India Software ltd., Bangalore India
+
+ May 2020 - October 2020
+
+Performed an Extensive Literature survey on SLAM methods for Autonomous Driving, identified methods most suitable for Toshiba   
+accelerator hardware for computer vision. 
+Made SOFT-SLAM compatible for Toshiba hardware made a major changes to front-end feature detection and backend bundle-adjustment.
+
+== Academic
+
+=== Robotics And Machine ANalytics Laboratory (RAMAN LAB) 
+
+Fall 2017 - Spring 2021: Robotics & Research Group
+
+==== MPC based algorithm for trajectory tracking. 
+    Developed a PoC for a trajectory tracking algorithm for close and quick 
+    tracking of trajectories based on diffeential drive robot model
+    and utilised various optimization algorithms including Particle 
+    Swarm optimization, Grey Wolf optimization, Genetic Algrithm.
+
+==== TATA Makerthon
+    Stood 4th Nationally out of 84 teams.
+
+==== ZINE Robotics Workshop
+Organised the MNITs largest Robotics Workshop for Undergraduate stuents. Topics ranging from electrical and electronics, sensors,
+mechanical design to software for robots were taught. With multiple sessions for practicals where hands on experience with robots were 
+given with an Opportunitiy to apply what had been taught and learnt.
+
+Mentor: [https://scholar.google.co.in/citations?user=ZBaMrjUAAAAJ&hl=en Dr. Rajesh Kumar]  
+Advisors: [https://scholar.google.com/citations?user=z9F1pZIAAAAJ Dr. Vishu Gupta], [https://scholar.google.com/citations?user=D6uLnGYAAAAJ&hl=en Dr. Rahul Singhal ] 
+   ## add photos and ppt material
